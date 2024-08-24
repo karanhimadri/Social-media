@@ -1,0 +1,33 @@
+.app-container {
+  display: flex;
+}
+.content {
+  width: 100%;
+}
+.sidebar {
+  min-height: 700px;
+}
+.form {
+  margin-left: 50px;
+  margin-top: 40px;
+  width: 60%;
+}
+.reaction-card {
+  margin-top: 15px;
+}
+.tag-card {
+  margin: 0 2px;
+}
+.wealcome-message {
+  margin: 100px 0;
+}
+.reaction-box {
+  display: flex;
+  justify-content: space-between;
+  width: 135px;
+  margin-top: 15px;
+  padding: 8px;
+}
+.spinner {
+  margin: 180px 0;
+}
